@@ -18,13 +18,13 @@ Steps to Run the Code:
 2. To run the code, type the following command to give customized inputs:
 
 
-                        python lai-yang.py
+                        python lai_yang.py
 
 
 OR To run the code with sample input provided, run the following command
 
 
-                      python lai-yang.py < input.txt  (Note: This works in Command Prompt only and not in Windows Power Shell or VSCode Terminal)
+                      python lai_yang.py < input.txt  (Note: This works in Command Prompt only and not in Windows Power Shell or VSCode Terminal)
               
 Sample Run:
 
