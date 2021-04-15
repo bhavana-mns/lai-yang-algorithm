@@ -8,9 +8,15 @@ Assumptions Made: The algorithm works for 2 processes P1 and P2 only
 Steps to Run the Code:
 1. Open cmd in the working Directory
 2. To run the code, type the following command to give customized inputs:
-              python lai-yang.py
+
+
+                    **python lai-yang.py**
+
+
 OR To run the code with sample input provided, run the following command
-              python lai-yang.py < input.txt  (Note: This works in Command Prompt only and not in Windows Power Shell or VSCode Terminal)
+
+
+                      **python lai-yang.py < input.txt**  (Note: This works in Command Prompt only and not in Windows Power Shell or VSCode Terminal)
               
 Sample Run:
 
