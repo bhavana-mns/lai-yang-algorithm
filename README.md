@@ -1,8 +1,16 @@
 # lai-yang-algorithm
 This is as part of Assignment for the course Distributed Computing pursuing at BITS WILP.
+
+
 Topic: Lai Yang Algorithm
-Language Implemented in: Python 3.9.3
-OS Tested in: Windows 10
+
+
+Language Implemented in: **Python 3.9.3**
+
+
+OS Tested in: **Windows 10**
+
+
 
 Assumptions Made: The algorithm works for 2 processes P1 and P2 only
 Steps to Run the Code:
