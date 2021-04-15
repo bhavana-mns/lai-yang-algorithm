@@ -13,6 +13,8 @@ OR To run the code with sample input provided, run the following command
               python lai-yang.py < input.txt  (Note: This works in Command Prompt only and not in Windows Power Shell or VSCode Terminal)
               
 Sample Run:
+
+
 ![image](https://user-images.githubusercontent.com/14028494/114838853-c05e8b00-9df2-11eb-8114-4adbe0d6ba83.png)
 ![image](https://user-images.githubusercontent.com/14028494/114838945-d704e200-9df2-11eb-918e-f931e32d2362.png)
 
